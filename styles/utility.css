@@ -1,0 +1,325 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+@font-face {
+    font-family: apercu;
+    src: url("../fonts/Apercu\ Light.otf");
+}
+
+
+@font-face {
+    font-family: futurak;
+    src: url(../fonts/futurak.ttf);
+}
+
+@font-face {
+    font-family: butler;
+    src: url(../fonts/Butler_Medium.otf);
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url("../fonts/Poppins-LightItalic.ttf");
+}
+
+
+h1{
+    font-size: 3.2rem;
+}
+
+p{
+    font-size: 1.6rem;
+}
+
+/* css variable */
+
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --green: #28a745;
+    --grey: #0f0f0f;
+    --text-grey: #acacac;
+}
+
+
+/* utility classes */
+
+.d-flex{
+    display: flex;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+.gap-1{
+    gap: 5px;
+}
+
+.gap-2{
+    gap: 10px;
+}
+
+.gap-3{
+    gap: 15px;
+}
+
+.gap-4{
+    gap: 20px;
+}
+
+.gap-5{
+    gap: 25px;
+}
+
+
+
+/* margin */
+
+
+.m-1{
+    margin: 5px;
+}
+
+.m-2{
+    margin: 10px;
+}
+
+.m-3{
+    margin: 15px;
+}
+
+.m-4{
+    margin: 20px;
+}
+
+.m-5{
+    margin: 25px;
+}
+
+
+
+/* top and bottom sa margin */
+
+.mx-1{
+    margin: 5px 0;
+}
+
+.mx-2{
+    margin: 10px 0;
+}
+
+.mx-3{
+    margin: 15px 0;
+}
+
+.mx-4{
+    margin: 20px 0;
+}
+
+.mx-5{
+    margin: 25px 0;
+}
+
+
+/* right and left sa margin */
+
+
+.my-1{
+    margin: 0 5px;
+}
+
+.my-2{
+    margin: 0 10px;
+}
+
+.my-3{
+    margin: 0 15px;
+}
+
+.my-4{
+    margin: 0 20px;
+}
+
+.my-5{
+    margin: 0 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* padding */
+
+.p-1{
+    padding: 5px;
+}
+
+.p-2{
+    padding: 10px;
+}
+
+.p-3{
+    padding: 15px;
+}
+
+.p-4{
+    padding: 20px;
+}
+
+.p-5{
+    padding: 25px;
+}
+
+
+
+/* top and bottom sa padding */
+
+.px-1{
+    padding: 5px 0;
+}
+
+.px-2{
+    padding: 10px 0;
+}
+
+.px-3{
+    padding: 15px 0;
+}
+
+.px-4{
+    padding: 20px 0;
+}
+
+.px-5{
+    padding: 25px 0;
+}
+
+
+/* right and left sa padding */
+
+
+.py-1{
+    padding: 0 5px;
+}
+
+.py-2{
+    padding: 0 10px;
+}
+
+.py-3{
+    padding: 0 15px;
+}
+
+.py-4{
+    padding: 0 20px;
+}
+
+.py-5{
+    padding: 0 25px;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+
+.text-none{
+    text-decoration: none;
+    color: var(--white);
+}
+
+.border-rounded{
+    border-radius: 30px;
+}
+
+
+
+.bg-black{
+    background-color: var(--black);
+}
+
+.bg-grey{
+    background-color: var(--grey);
+}
+
+.bg-red{
+    background-color: var(--red);
+}
+
+.bg-green{
+    background-color: var(--green);
+}
+
+.text-white{
+    color: var(--white);
+}
+
+.text-grey{
+    color: var(--text-grey);
+}
+
+.font-apercu{
+    font-family: apercu;
+}
+
+.font-futurak{
+    font-family: futurak;
+    font-weight: 200;
+}
+
+.font-butler{
+    font-family: butler;
+}
+
+.font-poppins{
+    font-family: Poppins;
+}
+
+
+.bg-white{
+    background-color: var(--white);
+}
+
+.text-red{
+    color: var(--red);
+}

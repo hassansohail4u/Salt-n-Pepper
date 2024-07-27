@@ -1,0 +1,225 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --green: #28a745;
+    --grey: #0f0f0f;
+    --text-grey: #acacac;
+}
+
+.web-logo{
+    width: 160px;
+}
+
+
+.navbar-items{
+    font-family: apercu;
+    font-size: 1.6rem;
+}
+
+.franchise-btn{
+    border: 1px solid var(--white);
+    background-color: var(--black);
+    padding: 16px 18px;
+}
+
+.order-btn{
+    background-color: var(--red);
+    padding: 13px 15px;
+    border: none;
+}
+
+.navbar-arrow{
+    color: var(--red);
+    font-size: 1.8rem;
+    width: 30px;
+    padding: 6px;
+    background-color: var(--white);
+    border-radius: 30px;
+    margin-left: 8px;
+}
+
+.courosel-picture{
+    width: 100%;
+}
+
+.brands-heading{
+    font-size: 5rem;
+    margin: 80px 0px 10px;
+}
+
+.big-heading{
+    font-size: 5.2rem;
+}
+
+
+.brand-paragraph{
+    font-size: 2rem;
+    margin: 0px 0px 40px;
+}
+
+.brand-picture{
+    width: 265px;
+    padding: 20px 13px;
+}
+
+.brand-btn{
+    border: 1px solid var(--text-grey);
+    background-color: var(--black);
+    color: var(--white);
+    padding: 15px 40px;
+    border-radius: 30px;
+    margin: 25px 0px 60px 45px;
+}
+
+.brand-padding{
+    padding: 15px 55px;
+}
+
+.resturant-heading{
+    font-size: 5.2rem;
+}
+
+.franchise-box-padding{
+    border: 1px solid var(--grey);
+    padding: 60px 210px 20px ;
+}
+
+
+
+.franchise-heading{
+    font-size: 4.8rem;
+    margin: 0px 0px 10px 0px;
+}
+
+.franchise-margin{
+    margin-bottom: 50px;
+}
+
+
+.franchise-paragraph{
+    color: var(--text-grey);
+    font-size: 1.8rem;
+    margin: 0px 0px 50px 0px;
+}
+
+
+.franchise{
+    font-size: 1.8rem;
+    letter-spacing: 0.7rem;
+    color: var(--red);
+    margin-bottom: 5px;
+}
+
+.franchise-gap{
+    gap: 180px;
+}
+
+.address-heading{
+    margin-bottom: 25px;
+}
+
+.franchise-address{
+    font-size: 1.6rem;
+}
+
+.franchise-number{
+    font-size: 1.6rem;
+    margin-bottom: 50px;
+}
+
+.direction-btn{
+    border: 1px solid var(--text-grey);
+    background-color: var(--grey);
+    padding: 10px 18px;
+    border-radius: 30px;
+}
+
+.direction-arrow{
+    color: var(--red);
+    font-size: 1.8rem;
+    width: 30px;
+    padding: 6px;
+    background-color: var(--white);
+    border-radius: 30px;
+    margin-left: 8px;
+}
+
+
+.express-franchise-padding{
+    border: 1px solid var(--black);
+    padding: 60px 40px 20px;
+}
+
+.heading-margin{
+     margin-bottom: 30px;
+}
+
+.express-pic-gap{
+    gap: 30px;
+}
+.express-pic-width{
+    width: 350px;
+}
+
+.city-name{
+    font-size: 1.3rem;
+    letter-spacing: 0.6rem;
+}
+
+.express-heading{
+    font-size: 2.5rem;
+}
+
+.express-franchise-address{
+    font-size: 1.5rem;
+    margin: 18px 0px 30px;
+}
+
+.express-franchise-number{
+    font-size: 1.5rem;
+}
+
+
+.direction-btn-margin{
+    margin: 50px 0px 35px 100px;
+}
+
+.dha-btn-margin{
+    margin-top: 65px;
+}
+
+.step-3-4-express-pic-width{
+    width: 350px;
+}
+
+.lahore-pic-height-width{
+    height: 250px;
+    width: 350px;
+}
+
+.gujar-khan-btn-margin{
+    margin-top: 70px;
+}
+
+.Sahiwal-pic-height{
+    height: 250px;
+}
+
+.gujrat-pic-width-height{
+    width: 350px;
+    height: 250px;
+}
+
+.sub-heading{
+    font-size: 5rem;
+}
+
+.Village-franchise-padding{
+    padding: 50px 0px 20px 0px;
+    border: 1px solid var(--grey);
+}
+
+.VILLAGE-FRANCHISE-Picture-width{
+    width: ;
+}
