@@ -1,0 +1,190 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --green: #28a745;
+    --grey: #0f0f0f;
+    --text-grey: #acacac;
+    --location-red: #cf1118;
+    --location-bg-grey:#e8ebe8;
+    --bottom-border-grey: #222222;
+    --rating-color-orange: #f7ab25;
+}
+
+.feedback-pic{
+    background-image: url("../assets/feedback\ Picture.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 720px;
+}
+
+.feedback-heading-1{
+    font-size: 4.2rem;
+    font-weight: 200;
+}
+
+.feedback-heading-2{
+    font-size: 10rem;
+    font-family: sans-serif;
+}
+
+.heading-paragraph{
+    font-size: 1.8rem;
+    font-family: sans-serif;
+}
+
+.feedback-paragraph-box{
+    margin: 60px 0px 0px 63px;
+}
+
+.feedback-paragraph{
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    font-weight: 550;
+    padding: 0px 30px 0px 0px;
+    border-right: 1px dashed var(--white);
+}
+
+.full-feedback{
+    padding: 0px 90px;
+}
+
+.feedback-box{
+    padding: 30px 15px;
+    border-right: 1px dashed var(--white);
+}
+
+
+.rating-heading{
+    font-size: 2.4rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.rating-box{
+    margin: 30px 30px 30px 0px;
+}
+
+.star-icon{
+    font-size: 2rem;
+    padding: 10px 8px;
+    border: 1px solid var(--white);
+    border-radius: 30px;
+    margin: 0px 0px 0px 3px;
+}
+
+.rating-star:hover{ 
+    background-color: var(--rating-color-orange);
+}
+
+.full-name-number{
+    width: 250px;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin:0px 0px 15px 0px;
+    height: 50px;
+    
+}
+
+.all-form-styling{
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin:0px 0px 15px 0px;
+    width: 525px;
+    height: 50px;
+    
+}
+
+.fav-new-food{
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin:0px 0px 15px 0px;
+    height: 50px;
+    width: 160px;
+}
+
+.suggestion{
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin:0px 0px 15px 0px;
+    height: 100px;
+}
+
+.num-size{
+    font-size: 1.1rem;
+}
+
+.feedback-box-heading{
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0px 0px 5px;
+}
+
+.option{
+    font-size: 1.5rem;
+}
+
+.yes{
+    margin: 0px 100px 0px 0px;
+}
+
+.option-box{
+    margin-bottom: 20px;
+}
+
+.new-food-box{
+    margin-bottom: 25px;
+}
+
+.checkbox{
+    font-size: 1.5rem;
+    margin-right: 60px;
+}
+
+.checkbox-box{
+    margin-bottom: 40px;
+}
+
+.submit-btn{
+    border: 1px solid black;
+    background-color: var(--red);
+    color: var(--white);
+    border-radius: 20px;
+    padding: 14px 25px;
+}
+
+.foodconsults-heading{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    margin-bottom: 25px;
+}
+
+.feedback-right-paragraph{
+    font-size: 1.7rem;
+    font-family: sans-serif;
+    line-height: 2rem;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.contact-heading{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.head-office-heading{
+    font-size: 2.8rem;
+    margin: 30px 0px;
+    font-weight: 300;
+}
+
+.number-address{
+    font-size: 1.4rem;
+}
+
+.feedback-box-2{
+    padding: 30px 0px;
+}

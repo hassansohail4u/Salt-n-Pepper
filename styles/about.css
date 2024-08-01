@@ -1,0 +1,169 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --green: #28a745;
+    --grey: #0f0f0f;
+    --text-grey: #acacac;
+    --location-red: #cf1118;
+    --location-bg-grey:#e8ebe8;
+    --bottom-border-grey: #222222;
+}
+
+.about{
+    padding: 80px 0px 100px;
+}
+
+.intrduction{
+    font-size: 4rem;
+    font-weight: 200;
+    margin: 0px 0px 35px;
+}
+
+.intrduction-paragraph{
+    font-size: 1.7rem;
+    line-height: 2rem;
+    word-spacing: 0.2rem;
+}
+
+.restaurant{
+    margin: 70px 0px 20px;
+    font-weight: 300;
+}
+
+.about-restaurant{
+    margin-bottom: 90px;
+}
+
+.restaurant-heading{
+    margin-bottom: 30px;
+}
+
+.restaurant-paragraph{
+    font-size: 1.5rem;
+    word-spacing: 0.3rem;
+    line-height: 1.8rem;
+}
+
+.Restaurant-Picture-1{
+    width: 540px;
+    border-radius: 5px;
+}
+
+.restaurant-box-1{
+    margin: 70px 0px 60px 0px;
+    gap: 80px;
+}
+
+.restaurant-box-2{
+    gap: 30px;
+    margin: 0px 0px 60px;
+}
+
+.franchise-heading{
+    font-weight: 500;
+}
+
+.franchise-box-heading{
+    margin-bottom: 25px;
+}
+
+.franchise-paragraph{
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    letter-spacing: 0.03rem;
+}
+
+.franchise-picture{
+    width: 540px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.franchise-box-1{
+    margin: 80px 0px 60px;
+    gap: 40px;
+}
+
+.franchise-box-2{
+    margin: 0px 30px 65px 0px;
+    gap: 30px;
+}
+
+.franchise-box-3{
+    margin: 0px 0px 30px 0px;
+    gap: 30px;
+}
+
+.express-heading{
+    margin: 70px 0px 40px 0px;
+}
+
+.express-head-paragraph{
+    margin-bottom: 70px;
+}
+
+.express-padding{
+    padding: 0px 238px;
+}
+
+.express-picture{
+    width: 540px;
+}
+
+.express-paragraph{
+    font-size: 1.5rem;
+    letter-spacing: 0.03rem;
+}
+
+.express-location-heading{
+    margin: 60px 0px;
+    font-weight: 200;
+}
+
+.express-locations-1{
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+}
+
+.express-box{
+    padding: 10px 10px 20px;
+    border: 1px solid var(--grey);
+     border-radius: 10px;
+}
+
+.express-box-heading{
+    margin-top: 20px;
+}
+
+.express-number{
+    font-size: 1.4rem;
+}
+
+.express-locations-2{
+    margin: 10px 0px 30px;
+}
+
+.express-pictures{
+    width: 330px;
+    height: 275px;
+    border-radius: 5px;
+}
+
+.village-franchise{
+    width: 540px;
+}
+
+.village-franchise-heading{
+    font-weight: 200;
+    margin: 70px 0px 80px;
+}
+
+.village-box-heading{
+    font-weight: 200;
+    margin: 10px 0px 20px;
+}
+
+.address-contact{
+    font-size: 1.5rem;
+}

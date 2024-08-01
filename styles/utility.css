@@ -29,6 +29,11 @@ html{
     src: url("../fonts/Poppins-LightItalic.ttf");
 }
 
+@font-face {
+    font-family: futura;
+    src: url(../fonts/Futura.rar);
+}
+
 
 h1{
     font-size: 3.2rem;
@@ -47,6 +52,9 @@ p{
     --green: #28a745;
     --grey: #0f0f0f;
     --text-grey: #acacac;
+    --location-red: #cf1118;
+    --location-bg-grey:#e8ebe8;
+    --bottom-border-grey: #222222;
 }
 
 
@@ -182,12 +190,6 @@ p{
 
 
 
-
-
-
-
-
-
 /* padding */
 
 .p-1{
@@ -298,6 +300,10 @@ p{
     color: var(--text-grey);
 }
 
+.text-black{
+    color: var(--black);
+}
+
 .font-apercu{
     font-family: apercu;
 }
@@ -315,6 +321,9 @@ p{
     font-family: Poppins;
 }
 
+.font-futura{
+    font-family: futura;
+}
 
 .bg-white{
     background-color: var(--white);

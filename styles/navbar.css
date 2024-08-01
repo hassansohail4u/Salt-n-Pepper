@@ -1,0 +1,149 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --green: #28a745;
+    --grey: #0f0f0f;
+    --text-grey: #acacac;
+    --location-red: #cf1118;
+    --location-bg-grey:#e8ebe8;
+    --bottom-border-grey: #222222;
+}
+
+.navbar{
+    border: 1px solid var(--grey);
+}
+
+.web-logo{
+    width: 160px;
+}
+
+
+.navbar-items{
+    font-family: apercu;
+    font-size: 1.6rem;
+}
+
+.franchise-btn{
+    border: 1px solid var(--white);
+    background-color: var(--black);
+    padding: 19px 20px;
+}
+
+.order-btn{
+    background-color: var(--red);
+    padding: 13px 15px;
+    border: none;
+}
+
+.navbar-arrow{
+    color: var(--red);
+    font-size: 1.8rem;
+    width: 30px;
+    padding: 6px;
+    background-color: var(--white);
+    border-radius: 30px;
+    margin-left: 8px;
+}
+
+/* footer css */
+
+.info-box{
+    padding: 70px 20px 60px;
+}
+
+.info-logo{
+    width: 140px;
+    margin-bottom: 10px;
+}
+
+.info-headings{
+    font-size: 1.6rem;
+}
+
+.info-paragraph{
+    font-size: 1.6rem;
+    padding: 15px;
+    line-height: 2.2rem;
+}
+
+.info-links{
+    font-size: 1.6rem;
+    margin: 0px 0px 25px;
+}
+
+.contact-heading{
+     font-size: 1.6rem;
+     padding: 0px 0px 22px;
+     font-weight: 100;
+}
+
+.contact-sub-heading{
+    font-size: 1.6rem;
+    padding: 0px 0px 15px;
+}
+
+.address-contact-margin{
+    padding: 0px 0px 15px;
+    line-height: 2.2rem;
+}
+
+.follow-us{
+    font-size: 1.6rem;
+    font-weight: 100;
+    padding: 0px 0px 25px;
+}
+
+.facebook-icon{
+    color: var(--white);
+    font-size: 1.7rem;
+    padding: 10px 13px;
+    background-color: var(--red);
+    border-radius: 30px;
+}
+
+.instagram-icon{
+    color: var(--white);
+    font-size: 1.7rem;
+    padding: 10px 13px;
+    background-color: var(--red);
+    border-radius: 30px;
+}
+
+.twitter-icon{
+    color: var(--white);
+    font-size: 1.6rem;
+    padding: 11px 12px;
+    background-color: var(--red);
+    border-radius: 30px;
+}
+
+.info-picture{
+    margin-bottom: 10px;
+}
+
+.icons-padding{
+    padding: 0px 0px 25px;
+}
+
+.restaurants-paragraph{
+    margin-right: 60px;
+    
+}
+
+.site-links-box{
+    margin-right: 120px;
+}
+
+.contact-address{
+    margin-right: 60px;
+}
+
+.last-text{
+    font-size: 1.5rem;
+}
+
+.last-content{
+    border-top: 1px solid var(--bottom-border-grey);
+    gap: 700px;
+}
