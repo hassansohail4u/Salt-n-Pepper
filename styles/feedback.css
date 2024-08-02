@@ -47,11 +47,15 @@
 }
 
 .full-feedback{
-    padding: 0px 90px;
+    padding: 30px 90px;
 }
 
 .feedback-box{
     padding: 30px 15px;
+    
+}
+
+.border{
     border-right: 1px dashed var(--white);
 }
 
